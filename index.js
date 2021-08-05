@@ -1,6 +1,7 @@
 // import
 const readlineSync = require('readline-sync');
-const chalk = require('chalk');
+const chalk = require("chalk");
+
 
 // high score logic
 const highScorers = [
